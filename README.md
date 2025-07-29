@@ -12,10 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMandar8&layout=compact&theme=radical&title_color=00ffff&text_color=ffffff&bg_color=141321&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMandar8&theme=react-dark&hide_border=true&bg_color=141321&color=ff00ff&line=00ffff&point=ffffff&area=true" />
-</p>
-
 
 
 ---
