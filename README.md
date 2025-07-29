@@ -11,7 +11,7 @@
 ---
 
 ### 🌟 Highlights
-- 🚀 Built **JNEC CMS** – A live CMS for [jnec.org](https://jnec.org/admin)  
+- 🚀 Built **JNEC CMS** – A live CMS for [jnec.org](https://jnec.org/)  
 - ⚡ Developed **DoctorsHub Pune** – Franchise & Appointment Platform  
 - 🤖 Created **AI-based Movie Recommendation System** (OpenAI + IMDb API)  
 
