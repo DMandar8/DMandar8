@@ -3,19 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DMandar8&label=Profile%20Views&color=ff00ff&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMandar8&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&bg_color=141321&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMandar8&layout=compact&theme=radical&title_color=00ffff&text_color=ffffff&bg_color=141321&hide_border=true" height="150" />
-</p>
-
-
-
----
-
 ### 🔥 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,php,java,html,css,js,git,vercel" />
