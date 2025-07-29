@@ -4,13 +4,18 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DMandar8&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DMandar8&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMandar8&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMandar8&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DMandar8&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMandar8&layout=compact&theme=gruvbox&hide_border=true" height="150" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMandar8&theme=gruvbox&hide_border=true&bg_color=1e1e1e&color=ff69b4&line=ffa500&point=ffffff&area=true&hide_title=false" />
+</p>
+
 
 ---
 
